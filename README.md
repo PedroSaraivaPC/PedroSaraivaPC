@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">👋 I'm Pedro Saraiva</h1>
 
-#
 
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align="right" alt="Coding" width="360">
 
