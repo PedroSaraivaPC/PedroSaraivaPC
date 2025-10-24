@@ -143,3 +143,8 @@ Here are some ideas to get you started:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+### 📊 Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=PedroSaraivaPC&show_icons=true&locale=en&theme=gruvbox)![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=PedroSaraivaPC&theme=gruvbox)
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=PedroSaraivaPC&show_icons=true&locale=en&theme=gruvbox&layout=compact)
