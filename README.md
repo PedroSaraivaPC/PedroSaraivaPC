@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me **saraivapedro.pc@gmail.com**
 - 🌟 Always open to learning new things
 
-#
 
 <h3 align="left">🌐 Socials:</h3>
 
