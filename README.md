@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
  - 🚀 Embarking in the world of **Work**
  
- - 🎉 Passionate about learning and bringing ideas to life!
+ - 🎉 Passionate about learning and bringing ideas to life
 
- - ⚡ Passionate about learning and bringing ideas to life!
+ - 🧠 Constantly learning, improving, and sharing knowledge
 
  
 
