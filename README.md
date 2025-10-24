@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">👋 I'm Beatriz Marques</h1>
+<h1 align="center">👋 I'm Pedro Saraiva</h1>
 <h3 align="center">I’m passionate about learning and bringing ideas to life 😊</h3>
 
-- 🔭 I’m currently studing at [Instituto Superior de Engenharia de Coimbra](www.isec.pt)
-- 📫 How to reach me **beatrizsantossmarques@gmail.com**
+- 🔭 I’m currently studing at [Polytechnic University of Coimbra - ISEC](https://www.ipc.pt)
+- 📫 How to reach me **saraivapedro.pc@gmail.com**
 - 🌟 Best quality: Always open to learning new things
-- 📚 My biggest addiction? Reading books!
+- 📚 My biggest addiction? ..!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
