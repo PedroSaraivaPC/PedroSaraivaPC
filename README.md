@@ -10,7 +10,7 @@
 
  - 📫 How to reach me **saraivapedro.pc@gmail.com**
 
- - 🚀 Embarking in the world of **Work**
+ - 🌍 Dreaming big and working towards making an impact
  
  - ⚡ Passionate about learning and bringing ideas to life
 
