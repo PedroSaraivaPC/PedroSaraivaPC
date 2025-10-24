@@ -21,7 +21,20 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studing at [Polytechnic University of Coimbra - ISEC](https://www.ipc.pt)
 - 📫 How to reach me **saraivapedro.pc@gmail.com**
 - 🌟 Best quality: Always open to learning new things
-- 📚 My biggest addiction? ..!
+
+#
+
+<h3 align="left">🌐 Socials:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedro-saraiva-pc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+         alt="pedro-saraiva-pc" 
+         height="30" 
+         width="30" 
+         style="vertical-align: middle;" />
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
