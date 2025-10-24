@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">👋 Hello, I'm Pedro Saraiva</h1>
 
+#
 
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align="right" alt="Coding" width="360">
 
@@ -26,6 +27,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **saraivapedro.pc@gmail.com**
 - 🌟 Always open to learning new things
 
+#
 
 <h3 align="left">🌐 Socials:</h3>
 
@@ -39,7 +41,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="left">Programming Languages and Tools:</h3>
+<h3 align="left"> Programming Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -156,7 +158,7 @@ Here are some ideas to get you started:
 
  #
 
-### 📊 Stats
+<h3 align="left">📊 Stats:</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=PedroSaraivaPC&show_icons=true&locale=en&theme=gruvbox)![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=PedroSaraivaPC&theme=gruvbox)
 ![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=PedroSaraivaPC&show_icons=true&locale=en&theme=gruvbox&layout=compact)
