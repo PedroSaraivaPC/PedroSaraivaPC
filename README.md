@@ -169,5 +169,5 @@ Here are some ideas to get you started:
 
 <h3 align="left">📊 Stats:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=PedroSaraivaPC&show_icons=true&locale=en&theme=gruvbox)![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=PedroSaraivaPC&theme=gruvbox)
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=PedroSaraivaPC&show_icons=true&locale=en&theme=gruvbox&layout=compact)
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=PedroSaraivaPC&theme=gruvbox)
+
