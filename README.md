@@ -14,11 +14,17 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">👋 I'm Pedro Saraiva</h1>
-<h3 align="center">I’m passionate about learning and bringing ideas to life 😊</h3>
 
-- 🔭 I’m currently studing at [Polytechnic University of Coimbra - ISEC](https://www.ipc.pt)
+#
+
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align="right" alt="Coding" width="360">
+
+<h3 align="left">🧠 About me:</h3>
+
+- ⚡ Passionate about learning and bringing ideas to life
+- 🔭 Currently studing at [Polytechnic University of Coimbra - ISEC](https://www.ipc.pt)
 - 📫 How to reach me **saraivapedro.pc@gmail.com**
-- 🌟 Best quality: Always open to learning new things
+- 🌟 Always open to learning new things
 
 #
 
