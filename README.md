@@ -22,6 +22,18 @@ Here are some ideas to get you started:
 
 <h3 align="left">🧠 About me:</h3>
 
+ <p align="left">🔭 Currently studing at [Polytechnic University of Coimbra - ISEC](https://www.ipc.pt)</p>
+
+ <p align="left">📫 How to reach me <strong>tfrcanedo@gmail.com</strong></p>
+
+ <p align="left">🚀 Embarking in the world of <strong> Work</strong></p>
+ 
+ <p align="left">🎉 Passionate about learning and bringing ideas to life!</p>
+
+ <p align="left">👨💻 All of my projects are available at <a href="https://tcanedo.com/" target="_blank">https://tcanedo.com/</a></p>
+
+
+ 
 - ⚡ Passionate about learning and bringing ideas to life
 - 🔭 Currently studing at [Polytechnic University of Coimbra - ISEC](https://www.ipc.pt)
 - 📫 How to reach me **saraivapedro.pc@gmail.com**
