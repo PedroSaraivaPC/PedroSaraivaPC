@@ -30,6 +30,9 @@ Here are some ideas to get you started:
  
  - 🎉 Passionate about learning and bringing ideas to life!
 
+ - ⚡ Passionate about learning and bringing ideas to life!
+
+ 
 
 #
 
