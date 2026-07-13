@@ -73,7 +73,3 @@
 
 #
 
-<h3 align="left">📊 Stats:</h3>
-
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=PedroSaraivaPC&theme=gruvbox)
-
