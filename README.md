@@ -6,7 +6,7 @@
 
 <h3 align="left">🧠 About me:</h3>
 
- - 🎓 Bachelor's degree in Computer Science Engineering from
+ - 🎓 Bachelor's degree in Computer Science Engineering from<br>
  [Polytechnic University of Coimbra - ISEC](https://www.ipc.pt)
 
  - 📫 Contact: **saraivapedro.pc@gmail.com**
