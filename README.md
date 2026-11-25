@@ -6,13 +6,13 @@
 
 <h3 align="left">🧠 About me:</h3>
 
- - 🔭 Currently studing at [Polytechnic University of Coimbra - ISEC](https://www.ipc.pt)
+ - 🎓 Bachelor's degree in Computer Science Engineering from [Polytechnic University of Coimbra - ISEC](https://www.ipc.pt)
 
- - 📫 How to reach me **saraivapedro.pc@gmail.com**
+ - 📫 Contact: **saraivapedro.pc@gmail.com**
 
- - 🌍 Dreaming big and working towards making an impact
+ - ⚡ Passionate about Data and AI
  
- - ⚡ Passionate about learning and bringing ideas to life
+ - 🚀 Experienced in delivering production-grade data solutions and applied machine learning models in research and aerospace environments at CERN and Critical Software
 
  - 🧠 Constantly learning, improving, and sharing knowledge
 
