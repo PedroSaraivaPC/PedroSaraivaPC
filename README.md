@@ -2,11 +2,12 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align="right" alt="Coding" width="300" height="175">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align="right" alt="Coding" width="300" height="172">
 
 <h3 align="left">🧠 About me:</h3>
 
- - 🎓 Bachelor's degree in Computer Science Engineering from [Polytechnic University of Coimbra - ISEC](https://www.ipc.pt)
+ - 🎓 Bachelor's degree in Computer Science Engineering from
+ [Polytechnic University of Coimbra - ISEC](https://www.ipc.pt)
 
  - 📫 Contact: **saraivapedro.pc@gmail.com**
 
